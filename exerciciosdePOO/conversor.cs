@@ -4,7 +4,15 @@ using System.Text;
 
 namespace exerciciosdePOO
 {
-    internal class conversor
+    public class conversor
     {
+
+        public double celsiuparafahrenheir()
+        {
+
+            return
+        }
+
+
     }
 }

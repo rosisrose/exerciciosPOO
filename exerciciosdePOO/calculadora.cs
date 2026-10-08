@@ -21,7 +21,7 @@ namespace exerciciosdePOO
 
         public void MostarCalculo()
         {
-            Console.WriteLine($"a soma deu : {soma()} e a subtração seu: {subtrai()}");
+            Console.WriteLine($"a soma deu : {soma()} e a subtração seu: {subtrai()}"); // quando for declarar subtrai e soma são metodos não variavel tem que declarar soma()
 
         }
 

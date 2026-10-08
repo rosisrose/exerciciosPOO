@@ -20,14 +20,16 @@ using exerciciosdePOO;
 
 
 // lista de exercicios dia 08/10
+// exercicio 2
+//calculadora calculo1 = new calculadora();
 
-calculadora calculo1 = new calculadora();
+//Console.WriteLine("digite um numero");
+//calculo1.a = int.Parse(Console.ReadLine() ?? "");
 
-Console.WriteLine("digite um numero");
-calculo1.a = int.Parse(Console.ReadLine() ?? "");
-
-Console.WriteLine("digite um numero");
-calculo1.b = int.Parse(Console.ReadLine() ?? "");
+//Console.WriteLine("digite um numero");
+//calculo1.b = int.Parse(Console.ReadLine() ?? "");
 
 
-calculo1.MostarCalculo();
+//calculo1.MostarCalculo();
+
+// exercicios 3
